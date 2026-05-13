@@ -77,8 +77,8 @@
     "bashMode": "golden"
   },
   "export": {
-    "pageBg": "#fff8e1",
-    "cardBg": "#efebe9",
-    "infoBg": "#a1887f"
+    "pageBg": "cream",
+    "cardBg": "milk",
+    "infoBg": "latte"
   }
 }
