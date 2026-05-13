@@ -1,13 +1,13 @@
 # ☕ phin — Pi themes inspired by Vietnamese coffee
 
-> *Phin* — from French *filtre* (filter), the soul of Vietnamese coffee 🇻🇳🇫🇷
+> *Phin* — from French *filtre* (filter), the soul of Vietnamese coffee
 
 ## 📦 Themes
 
 | Theme | File | Vibe |
 |:------|:-----|:------|
-| ☕🌸 **arabica** | `arabica.json` | Light, warm pastel, elegant |
-| ☕🟤 **robusta** | `robusta.json` | Bold, dark roast, strong |
+| ☕ **arabica** | `arabica.json` | Light, warm pastel, elegant |
+| ☕ **robusta** | `robusta.json` | Bold, dark roast, strong |
 
 ## 🚀 Installation
 
