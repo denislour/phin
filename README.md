@@ -11,14 +11,20 @@
 
 ## 🚀 Installation
 
-### Option 1 — Local (simple)
+### Option 1 — pi install (recommended)
+
+```bash
+pi install git:github.com/denislour/phin
+```
+
+### Option 2 — Manual (copy files)
 
 ```bash
 cp arabica.json ~/.pi/agent/themes/
 cp robusta.json ~/.pi/agent/themes/
 ```
 
-### Option 2 — Via GitHub raw URL
+### Option 3 — GitHub raw URL
 
 In `~/.pi/agent/settings.json`:
 
@@ -33,6 +39,20 @@ In `~/.pi/agent/settings.json`:
 Open `/settings` in pi, then select `arabica` or `robusta`.
 
 Pi hot-reloads themes automatically — no restart needed!
+
+## 🔧 Development
+
+### Schema
+
+Themes use the official pi schema for validation and editor autocompletion:
+
+```
+https://raw.githubusercontent.com/earendil-works/pi-mono/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json
+```
+
+## 📄 License
+
+MIT
 
 ---
 
