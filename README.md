@@ -1,6 +1,6 @@
 # ☕ phin — Pi themes inspired by Vietnamese coffee
 
-> *Phin* — from French *filtre* (filter), the soul of Vietnamese coffee 🇻🇳
+> *Phin* — from French *filtre* (filter), the soul of Vietnamese coffee 🇻🇳🇫🇷
 
 ## 📦 Themes
 
