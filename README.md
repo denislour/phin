@@ -34,6 +34,22 @@ In `~/.pi/agent/settings.json`:
 }
 ```
 
+## 🗑️ Uninstall
+
+### Option 1 — pi remove
+
+```bash
+pi remove git:github.com/denislour/phin
+```
+
+### Option 2 — Manual
+
+```bash
+rm ~/.pi/agent/themes/arabica.json ~/.pi/agent/themes/robusta.json
+```
+
+Then reset theme in `/settings` to `dark` or `light`.
+
 ## 🎨 Switching themes
 
 Open `/settings` in pi, then select `arabica` or `robusta`.
