@@ -1,0 +1,10 @@
+{
+  "name": "phin",
+  "version": "1.0.0",
+  "description": "☕ Pi themes inspired by Vietnamese coffee",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "pi": {
+    "themes": ["./"]
+  }
+}
