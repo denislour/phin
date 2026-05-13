@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/earendil-works/pi-mono/main/packages/coding-ag
 
 ## 📄 License
 
-MIT
+[MIT](LICENSE) — feel free to use, modify, and share.
 
 ---
 
